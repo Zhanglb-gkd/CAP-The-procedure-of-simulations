@@ -1,1 +1,1 @@
-It's the procedure of simulations about the CAP.
+It's the procedure of simulations about CAP.
